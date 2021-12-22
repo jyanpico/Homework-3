@@ -1,0 +1,69 @@
+body {
+  text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
+  box-shadow: inset 0 0 5rem rgba(0, 0, 0, .5);
+  background: url("../assets/imgs/memphis-mini-dark.png")
+}
+
+.cover-container {
+  max-width: 42em;
+}
+
+img {
+  border-radius: 150%;
+  width: 450px;
+  padding: 50px;
+}
+
+.card{
+  color: white;
+}
+
+h1 h3 {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+h1 {
+  padding-bottom: 20px;
+}
+h3 {
+  font-size: 20pt;
+  font-weight: bold;
+  
+}
+
+.nav-link :active {
+  background-color: gray;
+
+}
+
+p  {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: medium;
+}
+
+.nav-masthead .nav-link {
+  margin-left: 1rem;
+  padding: .100px;
+  font-weight: bold;
+  color: white;
+}
+
+
+.nav-link{
+  font-size: 15pt;
+
+}
+
+.nav-link:hover {
+  color: gray;
+}
+
+.card {
+  font-size: 11pt;
+}
+
+.media-buttons {
+  border: gray;
+}
+
+
